@@ -29,8 +29,8 @@ npm run start
 - 通过**moment.js**实现对时间的显示
 - 通过**braft-editor**实现富文本
 - 结合七牛云存储与**Ant Upload**上传文件
-- 通过**react-player **实现视频播放
-- 通过**react-highlight-words **实现搜索查询高亮
+- 通过**react-player**实现视频播放
+- 通过**react-highlight-words**实现搜索查询高亮
 - 通过ant权限组件进行鉴权
 
 ## 项目功能待实现

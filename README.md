@@ -43,6 +43,12 @@ npm run start
 
   ……
 
+## 项目部分截图
+![](http://image.52chinaweb.com/fond%E5%90%8E%E5%8F%B0%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+![](http://image.52chinaweb.com/Fond%E5%90%8E%E5%8F%B0%E9%A1%B5%E9%9D%A2%E4%B8%80.png)
+![](http://image.52chinaweb.com/Fond%E5%90%8E%E5%8F%B0%E9%A1%B5%E9%9D%A2%E4%BA%8C.png)
+![](http://image.52chinaweb.com/Fond%E5%90%8E%E5%8F%B0%E9%A1%B5%E9%9D%A2%E4%B8%89.png)
+
 ## 项目期间总结博客
 
 - [前后端分离使用七牛云存储](https://blog.52chinaweb.com/frontend/useqiniu.html)
